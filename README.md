@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome visitor 👋
 
 <div>
     <img width="51.8%" alt="GE-P's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GE-P&show_icons=true&theme=tokyonight&include_all_commits=true&hide=issues" />
