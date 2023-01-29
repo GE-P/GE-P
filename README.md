@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <img length="50%" src="https://github.com/GE-P/GE-P/blob/main/blue.gif"/>
+    <img width="50%" src="https://github.com/GE-P/GE-P/blob/main/blue.gif"/>
 </div>
 <!--
 **GE-P/GE-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
