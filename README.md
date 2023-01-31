@@ -2,7 +2,7 @@
 
 <div>
     <img width="55%" alt="GE-P's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GE-P&show_icons=true&theme=tokyonight&include_all_commits=true&hide=issues" />
-    <img width="39.8%" alt="GE-P's Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GE-P&theme=tokyonight&layout=compact"/>
+    <img width="39%" alt="GE-P's Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GE-P&theme=tokyonight&layout=compact"/>
 </div>
 
 <!--<div align="center">
