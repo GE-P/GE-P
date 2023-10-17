@@ -12,9 +12,13 @@
 
 I'm a DevOps enthusiast and a hobbyist app creator. Over the years, I've honed my skills in automating solutions to accelerate processes on the DevOps side. Simultaneously, I've explored my creativity and curiosity by crafting various apps and scripts, dividing my creations into two categories.
 
-🔧 **DevOps Creations**: I'm passionate about automating solutions, optimizing workflows, and enhancing efficiency in the workplace. This side of my work revolves around DevOps practices and includes projects like [Automated Deployment Pipeline](https://github.com/GE-P/Gitlab-CI-Variables-Setup), where I automate variables creation for further pipeline deployments .
+## 🔧 **DevOps Creations**: 
 
-🚀 **Creative Ventures**: On the other front, I embark on journeys of creativity and curiosity. I've delved into concepts such as machine learning, mobile game development, and other fascinating domains. You can find my creative side projects, like [Wine Prices Prediction](https://github.com/GE-P/Wine-Price-Prediction), where I explore innovative ways to predict the price of future wines.
+I'm passionate about automating solutions, optimizing workflows, and enhancing efficiency in the workplace. This side of my work revolves around DevOps practices and includes projects like [Gitlab CI variables setup](https://github.com/GE-P/Gitlab-CI-Variables-Setup), where I automate variables creation for further pipeline deployments .
+
+## 🚀 **Creative Ventures**: 
+
+On the other front, I embark on journeys of creativity and curiosity. I've delved into concepts such as machine learning, mobile game development, and other fascinating domains. You can find my creative side projects, like [Wine Prices Prediction](https://github.com/GE-P/Wine-Price-Prediction), where I explore innovative ways to predict the price of future wines.
 
 ## 🔨 **Languages and Tools**:
 
