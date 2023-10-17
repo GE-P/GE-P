@@ -12,32 +12,32 @@
 
 I'm a DevOps enthusiast and a hobbyist app creator. I'm passionate about automating solutions, optimizing workflows, and building cool applications in my free time.
 
-🌱 **Currently Learning**: 
+## 🌱 **Currently Learning**: 
 
-    - Machine learning
-    - Next.js with React
+- Machine learning
+- Next.js with React
 
-🔭 **I'm currently working on**:
+## 🔭 **I'm currently working on**:
 
-    - [Wine Prices Prediction](https://github.com/GE-P/Wine-Price-Prediction): Wines prices forecasts, for wine collectors.
-    - [Devops Command Center](https://github.com/GE-P/AppProject): A nice web app grouping many tools i made. The aim is accelerating pipelines deployments.
+- [Wine Prices Prediction](https://github.com/GE-P/Wine-Price-Prediction): Wines prices forecasts, for wine collectors.
+- [Devops Command Center](https://github.com/GE-P/AppProject): A nice web app grouping many tools i made. The aim is accelerating pipelines deployments.
 
-👯 **I'm looking to collaborate on**:
+## 👯 **I'm looking to collaborate on**:
 
-    - DevOps projects
-    - Infrastructure as Code (IaC)
-    - Application development
+- DevOps projects
+- Infrastructure as Code (IaC)
+- Application development
 
-🔨 **Languages and Tools**:
+## 🔨 **Languages and Tools**:
 
-    - Terraform
-    - Ansible
-    - Gitlab CI-CD
-    - Docker
-    - Python
-    - JavaScript
-    - Next.js
-    - C/C++
+- Terraform
+- Ansible
+- Gitlab CI-CD
+- Docker
+- Python
+- JavaScript
+- Next.js
+- C/C++
 
 <!--
 **GE-P/GE-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
