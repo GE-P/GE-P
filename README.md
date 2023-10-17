@@ -39,7 +39,6 @@ I'm a DevOps enthusiast and a hobbyist app creator. I'm passionate about automat
 - Next.js
 - C/C++
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GE-P&show_icons=true)
 <!--
 **GE-P/GE-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
