@@ -1,4 +1,4 @@
-### Welcome visitor 👋
+## Welcome visitor 👋
 
 <div>
     <img width="55%" alt="GE-P's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GE-P&show_icons=true&theme=tokyonight&include_all_commits=true&hide=issues" />
@@ -9,22 +9,27 @@
     <img width="200%" src="https://github.com/GE-P/GE-P/blob/main/blue.gif"/>
 </div>
 -->
-# I'm Gerhard Eibl 👋
 
 I'm a DevOps enthusiast and a hobbyist app creator. I'm passionate about automating solutions, optimizing workflows, and building cool applications in my free time.
 
-🌱 **Currently Learning**: Machine learning (Linear regression for now)
+🌱 **Currently Learning**: 
+
+- Machine learning
+- Next.js with React
 
 🔭 **I'm currently working on**:
+
 - [Wine Prices Prediction](https://github.com/GE-P/Wine-Price-Prediction): Wines prices forecasts, for wine collectors.
 - [Devops Command Center](https://github.com/GE-P/AppProject): A nice web app grouping many tools i made. The aim is accelerating pipelines deployments.
 
 👯 **I'm looking to collaborate on**:
+
 - DevOps projects
 - Infrastructure as Code (IaC)
 - Application development
 
-**Languages and Tools**:
+🔨 **Languages and Tools**:
+
 - Terraform
 - Ansible
 - Gitlab CI-CD
@@ -33,7 +38,8 @@ I'm a DevOps enthusiast and a hobbyist app creator. I'm passionate about automat
 - JavaScript
 - Next.js
 - C/C++
-- 
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GE-P&show_icons=true)
 <!--
 **GE-P/GE-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
