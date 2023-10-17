@@ -11,7 +11,7 @@
 -->
 
 
--- I'm a DevOps enthusiast and a hobbyist app creator. Over the years, I've honed my skills in automating solutions to accelerate processes on the DevOps side. Simultaneously, I've explored my creativity and curiosity by crafting various apps and scripts, dividing my creations into two categories. --
+I'm a DevOps enthusiast and a hobbyist app creator. Over the years, I've honed my skills in automating solutions to accelerate processes on the DevOps side. Simultaneously, I've explored my creativity and curiosity by crafting various apps and scripts, dividing my creations into two categories.
 
 ## 🔧 **DevOps Creations**: 
 
