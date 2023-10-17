@@ -35,9 +35,9 @@ I'm a DevOps enthusiast and a hobbyist app creator. I'm passionate about automat
 - Gitlab CI-CD
 - Docker
 - Python
-- JavaScript
-- Next.js
+- Java
 - C/C++
+- Bash and Powershell
 
 <!--
 **GE-P/GE-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
